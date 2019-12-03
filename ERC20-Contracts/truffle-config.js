@@ -44,7 +44,7 @@ module.exports = {
     //
     development: {
      host: "127.0.0.1",     // Localhost (default: none)
-     port: 7545,            // 8545 for ganache, 9545 for truffle develp
+     port: 9545,            // 8545 for ganache, 9545 for truffle develp
      network_id: "*",       // Any network (default: none)
      //from: "0x7301070ca45faf366e52c9fbad8360c8b0737806",
     }
